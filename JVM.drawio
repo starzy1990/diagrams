@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T03:18:13.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="GTVyIzSfGzhvqtAELTDB" version="15.9.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-20T03:30:52.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="6PTb9P-MNu3AwCIj8sX9" version="15.9.6" type="github" pages="4">
   <diagram id="BrPpC-8mLAdGoz8eTYsT" name="程序编译">
     <mxGraphModel dx="1038" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,6 +272,17 @@
         <mxCell id="tSh51RTxntLPx30OHqAE-25" value="本地磁盘或网络" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="tSh51RTxntLPx30OHqAE-1">
           <mxGeometry x="630" y="540" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GTbAWmtr8gv5MRB0v87--0" value="沙箱机制" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="tSh51RTxntLPx30OHqAE-1">
+          <mxGeometry x="210" y="680" width="300" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wTqNtEC7suXkA1arGQHM" name="运行时数据区域">
+    <mxGraphModel dx="1038" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="BbJAuV3L56FwL83caDEo-0" />
+        <mxCell id="BbJAuV3L56FwL83caDEo-1" parent="BbJAuV3L56FwL83caDEo-0" />
       </root>
     </mxGraphModel>
   </diagram>
