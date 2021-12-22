@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T15:08:16.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ZmiyrOr4WkwiV_AQihuD" version="16.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-22T15:43:16.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="kCAYD4IbkGyZmbVjgkN5" version="16.0.3" type="github" pages="5">
   <diagram id="xljxgBAA948Y7_NDT7y9" name="NameNode启动">
     <mxGraphModel dx="1209" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,6 +368,22 @@
         <mxCell id="rC5nzko70Q0iTBSzShL7-25" value="initIpcServer(conf)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="rC5nzko70Q0iTBSzShL7-1">
           <mxGeometry x="710" y="1080" width="270" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="I8tyCh53X_ilQKPQ66ui" name="HDFS写文件">
+    <mxGraphModel dx="1209" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="_XVeLm1nu0HYaNyxYRrM-0" />
+        <mxCell id="_XVeLm1nu0HYaNyxYRrM-1" parent="_XVeLm1nu0HYaNyxYRrM-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yCcMfWnUy06VAY7P12Z9" name="HDFS读文件">
+    <mxGraphModel dx="1209" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="UVOex9MrA3HY6gNNctID-0" />
+        <mxCell id="UVOex9MrA3HY6gNNctID-1" parent="UVOex9MrA3HY6gNNctID-0" />
       </root>
     </mxGraphModel>
   </diagram>
