@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T01:11:30.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="8wIK3mYc_m3y95F4o4TN" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T05:50:47.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="lZhbrl2evChQcXKa_hot" version="16.1.0" type="github">
   <diagram id="gnd1z-vkEwB7StJ_hXZW" name="第 1 页">
-    <mxGraphModel dx="1518" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2338" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="P39CHDQhXrutCx_nGXNt-1" value="CliDriver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=22;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="50" width="670" height="920" as="geometry" />
+          <mxGeometry x="-90" y="50" width="590" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CHDQhXrutCx_nGXNt-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="50" width="670" height="260" as="geometry" />
         </mxCell>
         <mxCell id="P39CHDQhXrutCx_nGXNt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="P39CHDQhXrutCx_nGXNt-2" target="P39CHDQhXrutCx_nGXNt-3">
           <mxGeometry relative="1" as="geometry" />
@@ -37,6 +40,9 @@
         <mxCell id="P39CHDQhXrutCx_nGXNt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="P39CHDQhXrutCx_nGXNt-5" target="P39CHDQhXrutCx_nGXNt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P39CHDQhXrutCx_nGXNt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="P39CHDQhXrutCx_nGXNt-5" target="P39CHDQhXrutCx_nGXNt-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P39CHDQhXrutCx_nGXNt-5" value="processLine()" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="246" y="620" width="176" height="60" as="geometry" />
         </mxCell>
@@ -45,6 +51,9 @@
         </mxCell>
         <mxCell id="P39CHDQhXrutCx_nGXNt-6" value="processCmd()" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="246" y="750" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CHDQhXrutCx_nGXNt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="P39CHDQhXrutCx_nGXNt-7" target="P39CHDQhXrutCx_nGXNt-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P39CHDQhXrutCx_nGXNt-7" value="processLocalCmd()" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="246" y="880" width="176" height="60" as="geometry" />
@@ -57,6 +66,12 @@
         </mxCell>
         <mxCell id="P39CHDQhXrutCx_nGXNt-17" value="setupConsoleReader(){&lt;br&gt;while(true) cli.processLine()&lt;br&gt;}" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;size=19;" vertex="1" parent="1">
           <mxGeometry x="-80" y="452" width="200" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CHDQhXrutCx_nGXNt-19" value="参数 line 就是一系列 ；分割的HQL&lt;br&gt;第一步：先处理 ctrl + C&lt;br&gt;第二步：逐个独立的 HQL 的处理" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;size=19;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="605" width="235" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CHDQhXrutCx_nGXNt-22" value="run(cmd)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="70" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
