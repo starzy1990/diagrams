@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T10:08:56.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="8g-y4NtUqyh0XMtNwBLO" version="16.4.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-07T10:55:10.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="_6cL_5Ls_bUtnr5AeAGg" version="16.4.11" type="github" pages="2">
   <diagram id="V2agxWNDqFFHkdYsPJiL" name="HashMap">
     <mxGraphModel dx="1209" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,6 +230,15 @@
       <root>
         <mxCell id="dT-EOZCpM1YtZctSJPvW-0" />
         <mxCell id="dT-EOZCpM1YtZctSJPvW-1" parent="dT-EOZCpM1YtZctSJPvW-0" />
+        <mxCell id="dT-EOZCpM1YtZctSJPvW-5" value="字节流" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="dT-EOZCpM1YtZctSJPvW-1">
+          <mxGeometry x="80" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KV1hFmPK3kj2N8YV8X4--1" value="字符流" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="dT-EOZCpM1YtZctSJPvW-1">
+          <mxGeometry x="320" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KV1hFmPK3kj2N8YV8X4--2" value="Inputstream" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="dT-EOZCpM1YtZctSJPvW-1">
+          <mxGeometry x="80" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
