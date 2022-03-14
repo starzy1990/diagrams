@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T09:58:24.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="kj7UCxMXEZCe6T52imUf" version="17.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-14T09:59:56.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="MgZOUZvjK3VivXDd9IXD" version="17.1.2" type="github" pages="6">
   <diagram id="SaLpI0_s9lk5tGEbdPId" name="论文结构">
     <mxGraphModel dx="1422" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -409,7 +409,7 @@
         <mxCell id="JAjAYBak4WdkFSeqcDpB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="JAjAYBak4WdkFSeqcDpB-1" source="JAjAYBak4WdkFSeqcDpB-15" target="JAjAYBak4WdkFSeqcDpB-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAjAYBak4WdkFSeqcDpB-14" value="C轮" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" vertex="1" connectable="0" parent="JAjAYBak4WdkFSeqcDpB-13">
+        <mxCell id="JAjAYBak4WdkFSeqcDpB-14" value="Series C financing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" vertex="1" connectable="0" parent="JAjAYBak4WdkFSeqcDpB-13">
           <mxGeometry x="-0.2154" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -429,7 +429,7 @@
         <mxCell id="JAjAYBak4WdkFSeqcDpB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=2;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="JAjAYBak4WdkFSeqcDpB-1" source="JAjAYBak4WdkFSeqcDpB-21" target="JAjAYBak4WdkFSeqcDpB-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAjAYBak4WdkFSeqcDpB-20" value="D轮" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" vertex="1" connectable="0" parent="JAjAYBak4WdkFSeqcDpB-19">
+        <mxCell id="JAjAYBak4WdkFSeqcDpB-20" value="Series D financing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" vertex="1" connectable="0" parent="JAjAYBak4WdkFSeqcDpB-19">
           <mxGeometry x="-0.3446" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -475,7 +475,7 @@
         <mxCell id="JAjAYBak4WdkFSeqcDpB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="JAjAYBak4WdkFSeqcDpB-1" source="JAjAYBak4WdkFSeqcDpB-34" target="JAjAYBak4WdkFSeqcDpB-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAjAYBak4WdkFSeqcDpB-33" value="E轮" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" vertex="1" connectable="0" parent="JAjAYBak4WdkFSeqcDpB-32">
+        <mxCell id="JAjAYBak4WdkFSeqcDpB-33" value="Series E financing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" vertex="1" connectable="0" parent="JAjAYBak4WdkFSeqcDpB-32">
           <mxGeometry x="-0.22" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
