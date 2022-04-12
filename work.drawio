@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T07:56:02.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" version="17.4.0" etag="gLzJSoIju0rSjD0YGs39" type="github"><diagram id="xYwMOE1XD1W6vOfAJuZv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-12T07:58:59.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="e9M31yu_vEQOBd5_BiZx" version="17.4.0" type="github">
+  <diagram id="xYwMOE1XD1W6vOfAJuZv" name="Page-1">
+    <mxGraphModel dx="2889" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5jwmne4-hkKwHHIUXCyR-1" value="bj-idc-30p4(172.20.30.4)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="90" width="670" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwmne4-hkKwHHIUXCyR-2" value="bj-idc-20p1(172.20.20.1)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="670" height="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
