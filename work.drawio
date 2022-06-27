@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T10:00:25.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="5G0ZbeSuJeVzUTBye07-" version="18.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-27T08:15:45.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_-fJ2gZNAmSsKb4K1rxV" version="18.0.5" type="github" pages="3">
   <diagram id="xYwMOE1XD1W6vOfAJuZv" name="Page-1">
-    <mxGraphModel dx="2692" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3716" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,54 +41,68 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Lbmf951aamsIb5scy_iY" name="中公教育保函明细">
-    <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rK84B4XTl2cfk09Y2UWX-1" target="rK84B4XTl2cfk09Y2UWX-4">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rK84B4XTl2cfk09Y2UWX-1" target="rK84B4XTl2cfk09Y2UWX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-1" value="保函及保费表ods.biz_guarantee_premium" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-1" value="保函及保费表ods.biz_guarantee_premium" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="100" y="60" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-4" value="中公教育保函明细表&lt;br&gt;dwd.dwd_zgjy_guarantee_premium_fd" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-4" value="中公教育保函明细表&lt;br&gt;dwd.dwd_zgjy_guarantee_premium_fd" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="740" y="290" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rK84B4XTl2cfk09Y2UWX-7" target="rK84B4XTl2cfk09Y2UWX-4">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rK84B4XTl2cfk09Y2UWX-7" target="rK84B4XTl2cfk09Y2UWX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-7" value="贷款记录&lt;br&gt;ods.biz_loan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-7" value="贷款记录&lt;br&gt;ods.biz_loan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="140" y="140" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rK84B4XTl2cfk09Y2UWX-9" target="rK84B4XTl2cfk09Y2UWX-4">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rK84B4XTl2cfk09Y2UWX-9" target="rK84B4XTl2cfk09Y2UWX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-9" value="追偿信息&lt;br&gt;ods.biz_repayment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-9" value="追偿信息&lt;br&gt;ods.biz_repayment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="140" y="220" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="rK84B4XTl2cfk09Y2UWX-10" target="rK84B4XTl2cfk09Y2UWX-4">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;" parent="1" source="rK84B4XTl2cfk09Y2UWX-10" target="rK84B4XTl2cfk09Y2UWX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-10" value="项目信息&lt;br&gt;ods.biz_project" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-10" value="项目信息&lt;br&gt;ods.biz_project" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="140" y="300" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rK84B4XTl2cfk09Y2UWX-11" target="rK84B4XTl2cfk09Y2UWX-4">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rK84B4XTl2cfk09Y2UWX-11" target="rK84B4XTl2cfk09Y2UWX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-11" value="每期保费详情&lt;br&gt;ods.biz_guarantee_premium_details" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-11" value="每期保费详情&lt;br&gt;ods.biz_guarantee_premium_details" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="80" y="380" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rK84B4XTl2cfk09Y2UWX-12" target="rK84B4XTl2cfk09Y2UWX-4">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rK84B4XTl2cfk09Y2UWX-12" target="rK84B4XTl2cfk09Y2UWX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-12" value="中公教育成功还款信息&lt;br&gt;ods.zgjy_sftp_repayment_info" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-12" value="中公教育成功还款信息&lt;br&gt;ods.zgjy_sftp_repayment_info" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="80" y="460" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rK84B4XTl2cfk09Y2UWX-13" target="rK84B4XTl2cfk09Y2UWX-4">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rK84B4XTl2cfk09Y2UWX-13" target="rK84B4XTl2cfk09Y2UWX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rK84B4XTl2cfk09Y2UWX-13" value="中公教育放款文件信息&lt;br&gt;ods.zgjy_sftp_loan_info" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="rK84B4XTl2cfk09Y2UWX-13" value="中公教育放款文件信息&lt;br&gt;ods.zgjy_sftp_loan_info" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="140" y="540" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q02_nzPmKwghiA7wHwCp" name="第 3 页">
+    <mxGraphModel dx="1865" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gClCmRlCF4de8Xs-Fia0-1" value="1·、存储&amp;nbsp; &amp;nbsp;-&amp;nbsp; Hadoop HDFS&lt;br&gt;2、即席查询组件-----hue&amp;nbsp;&amp;nbsp;&lt;br&gt;3、OLAP中间件 ：clickhouse、kylin、Driud、Doris&lt;br&gt;4、计算引擎：MR、TEZ、SPARK、Flink&lt;br&gt;5、BI工具&lt;br&gt;6、调度工具：AZ&lt;br&gt;7、采集工具：Flume、logstash、Filebeat&lt;br&gt;8、ETL 工具：sqoop、cannel、Flink CDC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="690" width="770" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gClCmRlCF4de8Xs-Fia0-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="380" width="190" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
