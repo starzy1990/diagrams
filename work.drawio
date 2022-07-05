@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T04:47:40.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WIsxG6mWsN7wHGTmF_ry" version="20.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-05T05:04:44.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XpEr_5ycXwh_N4FAR7Sq" version="20.0.3" type="github" pages="4">
   <diagram id="xYwMOE1XD1W6vOfAJuZv" name="Page-1">
     <mxGraphModel dx="3716" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sm6V_qED-DdIynjwy2Ch-1" value="数据质量管理&lt;br&gt;任务定时调度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="90" y="415" width="90" height="340" as="geometry" />
+          <mxGeometry x="90" y="320" width="90" height="435" as="geometry" />
         </mxCell>
         <mxCell id="sm6V_qED-DdIynjwy2Ch-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="190" y="680" width="500" height="75" as="geometry" />
@@ -139,14 +139,20 @@
         <mxCell id="sm6V_qED-DdIynjwy2Ch-9" value="数据仓库 ODS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="210" y="610" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sm6V_qED-DdIynjwy2Ch-10" value="数据仓库 ODS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="sm6V_qED-DdIynjwy2Ch-10" value="数据仓库 DWD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="210" y="560" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sm6V_qED-DdIynjwy2Ch-11" value="数据仓库 ODS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="sm6V_qED-DdIynjwy2Ch-11" value="数据仓库 DWS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="210" y="510" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sm6V_qED-DdIynjwy2Ch-12" value="数据仓库 ODS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="sm6V_qED-DdIynjwy2Ch-12" value="数据仓库 ADS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#99FFFF;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="210" y="460" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sm6V_qED-DdIynjwy2Ch-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="480" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sm6V_qED-DdIynjwy2Ch-14" value="即席查询服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
