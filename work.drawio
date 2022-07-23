@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T12:14:16.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NW89qL_iIwnkrstWVZ2m" version="20.1.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-07-23T13:54:55.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JwN563DLCOA_q77cVDvH" version="20.1.4" type="github" pages="16">
   <diagram id="xYwMOE1XD1W6vOfAJuZv" name="Page-1">
     <mxGraphModel dx="2692" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1228,7 +1228,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="lxzEvvpy_qsfPI-PIxrj" name="第 15 页">
+  <diagram id="lxzEvvpy_qsfPI-PIxrj" name="数仓分层">
     <mxGraphModel dx="2595" dy="2707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1388,6 +1388,14 @@
         <mxCell id="INZDFNwpm7RF_HGUUg_Y-25" value="数&lt;br&gt;据&lt;br&gt;服&lt;br&gt;务&lt;br&gt;监&lt;br&gt;控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="907" y="-1100" width="80" height="750" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fUo6v6EolT40v8QTok15" name="湖仓一体">
+    <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
