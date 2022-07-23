@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T10:00:26.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MnGu5QvYRnPPsjM5mp0-" version="20.1.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-07-23T10:00:38.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="joRplPOIBqJPjrONAbtk" version="20.1.4" type="github" pages="15">
   <diagram id="xYwMOE1XD1W6vOfAJuZv" name="Page-1">
     <mxGraphModel dx="2692" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1233,24 +1233,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mgZ60iB-FtdXvsaHU2NZ-1" value="经典数仓架构" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="420" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mgZ60iB-FtdXvsaHU2NZ-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;endWidth=30;endSize=11.13;width=25;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="248" y="130" as="sourcePoint" />
-            <mxPoint x="248" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mgZ60iB-FtdXvsaHU2NZ-4" value="离线大数据架构" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="210" width="420" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mgZ60iB-FtdXvsaHU2NZ-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;endWidth=30;endSize=11.13;width=25;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="249.5" y="300" as="sourcePoint" />
-            <mxPoint x="249.5" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
