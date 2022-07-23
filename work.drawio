@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T14:07:26.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mi4koWHXik6StcfI_qDv" version="20.1.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-07-23T14:08:35.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aRHCj2lX8OffdYe0BjcX" version="20.1.4" type="github" pages="16">
   <diagram id="xYwMOE1XD1W6vOfAJuZv" name="Page-1">
     <mxGraphModel dx="2692" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1456,6 +1456,9 @@
         </mxCell>
         <mxCell id="XupXwZgf1NbFf7swPjym-20" value="事务&lt;br&gt;型数&lt;br&gt;据库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="470" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XupXwZgf1NbFf7swPjym-21" value="访问接口" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=1;fillColor=#1ba1e2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="460" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
