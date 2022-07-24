@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T07:47:59.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2tgIliP850GGrEQd8Nlp" version="20.1.4" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-07-24T08:20:56.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oNhkEE-qbRlW89OaGRFX" version="20.1.4" type="github" pages="17">
   <diagram id="xYwMOE1XD1W6vOfAJuZv" name="Page-1">
     <mxGraphModel dx="2692" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1507,9 +1507,6 @@
         <mxCell id="j84Rv2vhIsW6yLzA5GTe-2" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;strokeWidth=1;strokeColor=#007FFF;verticalAlign=top;fontColor=#0064C9;" vertex="1" parent="1">
           <mxGeometry x="70" y="100" width="170" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="j84Rv2vhIsW6yLzA5GTe-3" value="可变更数据" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;strokeColor=#006EAF;strokeWidth=1;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="95" y="170" width="120" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="j84Rv2vhIsW6yLzA5GTe-4" value="不可变更数据" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;strokeColor=#006EAF;strokeWidth=1;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="95" y="280" width="120" height="70" as="geometry" />
         </mxCell>
@@ -1519,7 +1516,7 @@
         <mxCell id="j84Rv2vhIsW6yLzA5GTe-6" value="流数据处理系统" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;strokeWidth=1;strokeColor=#007FFF;verticalAlign=top;fontColor=#0064C9;" vertex="1" parent="1">
           <mxGeometry x="270" y="289" width="500" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j84Rv2vhIsW6yLzA5GTe-7" value="实时持续智能" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#D6E4FF;gradientColor=#428BFF;gradientDirection=west;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="j84Rv2vhIsW6yLzA5GTe-7" value="实时持续智能" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;strokeColor=#6C8EBF;strokeWidth=1;fillColor=#D6E4FF;gradientColor=#428BFF;gradientDirection=west;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="290" y="319" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j84Rv2vhIsW6yLzA5GTe-8" value="实时按需智能" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;strokeColor=#006EAF;strokeWidth=1;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
@@ -1539,6 +1536,9 @@
         </mxCell>
         <mxCell id="j84Rv2vhIsW6yLzA5GTe-13" value="批视图" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="501" y="237" width="229" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j84Rv2vhIsW6yLzA5GTe-14" value="可变更数据" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;strokeColor=none;strokeWidth=1;fillColor=#D6E4FF;gradientColor=#428BFF;gradientDirection=west;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="143" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
