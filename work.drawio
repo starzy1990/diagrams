@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T05:12:12.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rPfXrsAB0sWvXhiRGrZk" version="20.2.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-08-04T05:13:51.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8olObXvR8xk7dMoxWyE_" version="20.2.2" type="github" pages="18">
   <diagram id="xYwMOE1XD1W6vOfAJuZv" name="Page-1">
     <mxGraphModel dx="2692" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1567,7 +1567,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C3Un99owFr7U0Yi0Hk0_" name="第 18 页">
-    <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1589,6 +1589,12 @@
         <mxCell id="kVNgZrqJXB60HUaF7B27-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kVNgZrqJXB60HUaF7B27-8" target="kVNgZrqJXB60HUaF7B27-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kVNgZrqJXB60HUaF7B27-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kVNgZrqJXB60HUaF7B27-8" target="kVNgZrqJXB60HUaF7B27-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVNgZrqJXB60HUaF7B27-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kVNgZrqJXB60HUaF7B27-8" target="kVNgZrqJXB60HUaF7B27-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kVNgZrqJXB60HUaF7B27-8" value="创建保函" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1606,6 +1612,18 @@
         </mxCell>
         <mxCell id="kVNgZrqJXB60HUaF7B27-14" value="支付保费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kVNgZrqJXB60HUaF7B27-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kVNgZrqJXB60HUaF7B27-17" target="kVNgZrqJXB60HUaF7B27-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVNgZrqJXB60HUaF7B27-17" value="保函代偿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kVNgZrqJXB60HUaF7B27-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kVNgZrqJXB60HUaF7B27-20" target="kVNgZrqJXB60HUaF7B27-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVNgZrqJXB60HUaF7B27-20" value="分保" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
