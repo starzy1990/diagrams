@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T05:00:48.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="3KBI2LQi_nRvzqeFR8T6" version="20.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-05T05:01:03.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="egENs-ESqO0VEDwzpanE" version="20.4.0" type="github" pages="5">
   <diagram id="SaLpI0_s9lk5tGEbdPId" name="论文结构">
     <mxGraphModel dx="1422" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -601,23 +601,6 @@
         </mxCell>
         <mxCell id="DmI8uVhX9xa0pyelonJU-24" value="送货/服务上门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="DmI8uVhX9xa0pyelonJU-1" vertex="1">
           <mxGeometry x="-103" y="380" width="125" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="9TGDg8JwrMc0Eg2TEVuu" name="到店 O2O 模式消费流程">
-    <mxGraphModel dx="1209" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="qOp2MNcsyv_rZ9SFBdhm-0" />
-        <mxCell id="qOp2MNcsyv_rZ9SFBdhm-1" parent="qOp2MNcsyv_rZ9SFBdhm-0" />
-        <mxCell id="qOp2MNcsyv_rZ9SFBdhm-2" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rounded=0;fontSize=16;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;rotation=-90;" vertex="1" parent="qOp2MNcsyv_rZ9SFBdhm-1">
-          <mxGeometry x="130" y="260" width="80" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="qOp2MNcsyv_rZ9SFBdhm-3" value="决定" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontSize=16;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="qOp2MNcsyv_rZ9SFBdhm-1">
-          <mxGeometry x="290" y="280" width="156" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qOp2MNcsyv_rZ9SFBdhm-4" value="查找" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="qOp2MNcsyv_rZ9SFBdhm-1">
-          <mxGeometry x="120" y="305" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
