@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T08:12:15.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-0Iki-ZfJgIOwiwQLDiY" version="20.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-10-30T08:12:36.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="DgReMUEE1M-gBqNLmH2Z" version="20.5.1" type="github" pages="7">
   <diagram id="xljxgBAA948Y7_NDT7y9" name="NameNode启动">
     <mxGraphModel dx="2946" dy="2882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -732,7 +732,7 @@
         </mxCell>
         <mxCell id="0ZU0EXH1wU37koJCpU9n-8" value="实现故障自动切换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="0ZU0EXH1wU37koJCpU9n-5">
           <mxGeometry x="0.1932" y="-2" relative="1" as="geometry">
-            <mxPoint x="1" y="-65" as="offset" />
+            <mxPoint x="-2" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0ZU0EXH1wU37koJCpU9n-1" value="Namenode&lt;br&gt;（standby）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
