@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T08:08:32.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="U2Tv6ADOtpo6p7wM2yYa" version="20.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-10-30T08:09:03.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KEu4c9AGBtfrnR88h8p0" version="20.5.1" type="github" pages="7">
   <diagram id="xljxgBAA948Y7_NDT7y9" name="NameNode启动">
     <mxGraphModel dx="2946" dy="2882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -745,8 +745,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AvyAgVhk2duzIaDE94JJ-18" value="联邦" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="10" y="230" width="800" height="400" as="geometry" />
+        <mxCell id="AvyAgVhk2duzIaDE94JJ-18" value="NameNode 联邦集群" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="10" y="250" width="800" height="380" as="geometry" />
         </mxCell>
         <mxCell id="AvyAgVhk2duzIaDE94JJ-1" value="NameNode&lt;br&gt;（active）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="490" width="140" height="110" as="geometry" />
