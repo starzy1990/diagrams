@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T08:05:26.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8ka7RHnlbkwRgFj5hJqn" version="20.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-10-30T08:08:32.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="U2Tv6ADOtpo6p7wM2yYa" version="20.5.1" type="github" pages="7">
   <diagram id="xljxgBAA948Y7_NDT7y9" name="NameNode启动">
     <mxGraphModel dx="2946" dy="2882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -745,6 +745,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AvyAgVhk2duzIaDE94JJ-18" value="联邦" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="10" y="230" width="800" height="400" as="geometry" />
+        </mxCell>
         <mxCell id="AvyAgVhk2duzIaDE94JJ-1" value="NameNode&lt;br&gt;（active）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="490" width="140" height="110" as="geometry" />
         </mxCell>
@@ -780,6 +783,18 @@
         </mxCell>
         <mxCell id="AvyAgVhk2duzIaDE94JJ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="610" y="375" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AvyAgVhk2duzIaDE94JJ-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontSize=18;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AvyAgVhk2duzIaDE94JJ-15" value="高可用（HA）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AvyAgVhk2duzIaDE94JJ-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="40" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="AvyAgVhk2duzIaDE94JJ-17" value="··· ···" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="760" y="452.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
