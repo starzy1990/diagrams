@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T07:23:10.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="K76W4TNS9WRqdJwsfhiy" version="20.5.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-30T07:25:08.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rHMnM7wqB95IjqMb5NUM" version="20.5.1" type="github" pages="6">
   <diagram id="xljxgBAA948Y7_NDT7y9" name="NameNode启动">
     <mxGraphModel dx="2946" dy="2882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -581,6 +581,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x2KyfzSTU6LfTm9p3E2B-1" value="Namenode" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="190" y="550" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x2KyfzSTU6LfTm9p3E2B-2" value="Namenode" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="540" y="550" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x2KyfzSTU6LfTm9p3E2B-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="240" y="585" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="x2KyfzSTU6LfTm9p3E2B-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="590" y="585" width="80" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
