@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T07:30:11.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ebQvmme17KvsMxBZlrhO" version="20.4.0" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2022-11-04T07:30:56.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5n31w6TrLC5j3gVE2AnS" version="20.4.0" type="github" pages="23">
   <diagram id="xYwMOE1XD1W6vOfAJuZv" name="Page-1">
     <mxGraphModel dx="2692" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -783,17 +783,14 @@
         <mxCell id="w4nNQ-FWZ_s1HiLLKAGj-37" value="数据&lt;br&gt;采集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="30" y="512.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w4nNQ-FWZ_s1HiLLKAGj-38" value="应用数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="w4nNQ-FWZ_s1HiLLKAGj-38" value="业务数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="125" y="520" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="w4nNQ-FWZ_s1HiLLKAGj-39" value="埋点数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="230" y="520" width="90" height="35" as="geometry" />
+        <mxCell id="w4nNQ-FWZ_s1HiLLKAGj-39" value="填报数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="250" y="520" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="w4nNQ-FWZ_s1HiLLKAGj-40" value="日志数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="340" y="520" width="90" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="w4nNQ-FWZ_s1HiLLKAGj-41" value="第三方数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="440" y="520" width="90" height="35" as="geometry" />
+          <mxGeometry x="390" y="520" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="w4nNQ-FWZ_s1HiLLKAGj-42" value="其它数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="540" y="520" width="90" height="35" as="geometry" />
