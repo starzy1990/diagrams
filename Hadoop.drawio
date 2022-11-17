@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T03:21:35.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sFNlBHC3h8I23MP4_fUq" version="20.5.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-11-17T03:22:03.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mf_QC35OYL1bFD7E4cPD" version="20.5.3" type="github" pages="8">
   <diagram id="xljxgBAA948Y7_NDT7y9" name="NameNode启动">
-    <mxGraphModel dx="577" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,10 +65,10 @@
           <mxGeometry x="570" y="-1070" width="680" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IWX_TBx0upN0qYrfrZli-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="570" y="-1000" width="232" height="60" as="geometry" />
+          <mxGeometry x="570" y="-1000" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IWX_TBx0upN0qYrfrZli-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="570" y="-920" width="232" height="60" as="geometry" />
+          <mxGeometry x="570" y="-920" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IWX_TBx0upN0qYrfrZli-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;" parent="1" source="IWX_TBx0upN0qYrfrZli-17" target="IWX_TBx0upN0qYrfrZli-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
