@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T10:16:24.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="svEWe8ZPNbF5FH4Kw7Qz" version="20.5.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-11-17T02:08:00.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1Pxf53bkq1FRts8sFpGx" version="20.5.3" type="github" pages="8">
   <diagram id="xljxgBAA948Y7_NDT7y9" name="NameNode启动">
-    <mxGraphModel dx="2062" dy="2368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,7 +142,7 @@
           <mxGeometry x="1335" y="-810" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IWX_TBx0upN0qYrfrZli-37" value="loadNameSystem(conf)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="-580" width="232" height="70" as="geometry" />
+          <mxGeometry x="1030" y="-550" width="232" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IWX_TBx0upN0qYrfrZli-38" value="FSNamesystem" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1685" y="-1065" width="1210" height="645" as="geometry" />
@@ -246,10 +246,10 @@
         <mxCell id="IWX_TBx0upN0qYrfrZli-66" value="doRollback(conf, true)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="570" y="-830" width="232" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IWX_TBx0upN0qYrfrZli-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=20;strokeWidth=2;" parent="1" source="IWX_TBx0upN0qYrfrZli-69" target="IWX_TBx0upN0qYrfrZli-74" edge="1">
+        <mxCell id="IWX_TBx0upN0qYrfrZli-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=20;strokeWidth=2;exitX=1;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IWX_TBx0upN0qYrfrZli-69" target="IWX_TBx0upN0qYrfrZli-74" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1675" y="-125" />
+              <mxPoint x="1675" y="-110" />
               <mxPoint x="1675" y="-550" />
             </Array>
           </mxGeometry>
@@ -292,7 +292,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lAbUES1ijesJqw5qkLP5" name="DataNode启动">
-    <mxGraphModel dx="2062" dy="1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rC5nzko70Q0iTBSzShL7-0" />
         <mxCell id="rC5nzko70Q0iTBSzShL7-1" parent="rC5nzko70Q0iTBSzShL7-0" />
