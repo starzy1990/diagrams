@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T06:33:24.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qHdNlbajPEmGI0HrjCTf" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-14T06:51:43.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6GlQHy7jBQy6tfq-musk" version="20.6.0" type="github" pages="4">
   <diagram id="V2agxWNDqFFHkdYsPJiL" name="HashMap">
     <mxGraphModel dx="2062" dy="1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,23 +310,32 @@
         <mxCell id="iPEx3JsynS4AcwqelX3d-1" value="建&lt;br&gt;立&lt;br&gt;三&lt;br&gt;次&lt;br&gt;握&lt;br&gt;手" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;horizontal=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="260" width="160" height="490" as="geometry" />
         </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iPEx3JsynS4AcwqelX3d-2" target="iPEx3JsynS4AcwqelX3d-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iPEx3JsynS4AcwqelX3d-2" value="Close" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="260" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iPEx3JsynS4AcwqelX3d-3" value="SYN-SENT&lt;br&gt;（同步-发送）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="360" width="160" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iPEx3JsynS4AcwqelX3d-4" target="iPEx3JsynS4AcwqelX3d-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iPEx3JsynS4AcwqelX3d-4" value="ESTAB-LISHED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="570" width="160" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="iPEx3JsynS4AcwqelX3d-5" value="SYN-SENT&lt;br&gt;（同步-发送）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="iPEx3JsynS4AcwqelX3d-5" value="数据传输" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="750" width="160" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="iPEx3JsynS4AcwqelX3d-6" value="SYN-SENT&lt;br&gt;（同步-发送）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="iPEx3JsynS4AcwqelX3d-6" value="WRITE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="750" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="iPEx3JsynS4AcwqelX3d-7" value="断&lt;br&gt;开&lt;br&gt;连&lt;br&gt;接&lt;br&gt;四&lt;br&gt;次&lt;br&gt;挥&lt;br&gt;手" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;horizontal=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="1030" width="160" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iPEx3JsynS4AcwqelX3d-8" target="iPEx3JsynS4AcwqelX3d-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iPEx3JsynS4AcwqelX3d-8" value="SYN-SENT&lt;br&gt;（同步-发送）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="1030" width="160" height="220" as="geometry" />
@@ -357,6 +366,36 @@
         </mxCell>
         <mxCell id="iPEx3JsynS4AcwqelX3d-14" value="CLOSE-WAIT&lt;br&gt;关闭等待" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="1160" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-18" value="Close" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-19" value="LISTEN&lt;br&gt;（接收）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#66FF66;fontColor=#000000;strokeColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="361" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.973;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iPEx3JsynS4AcwqelX3d-20" target="iPEx3JsynS4AcwqelX3d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-20" value="LISTEN&lt;br&gt;（接收）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#3399FF;fontColor=#000000;strokeColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="462" width="160" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-21" value="ESTAB-LISHED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="652" width="160" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;fontColor=#000000;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iPEx3JsynS4AcwqelX3d-6" target="iPEx3JsynS4AcwqelX3d-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="440" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;" edge="1" parent="1" source="iPEx3JsynS4AcwqelX3d-26" target="iPEx3JsynS4AcwqelX3d-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-26" value="READ" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="750" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="iPEx3JsynS4AcwqelX3d-27" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1030" width="160" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
