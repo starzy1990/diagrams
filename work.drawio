@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T07:42:27.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cVJ7RxAkZiCoYUNi0LSQ" version="20.5.3" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2022-12-26T10:33:30.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="tBhVDoGSkAh2h_INk44r" version="20.5.3" type="github" pages="22">
   <diagram id="xYwMOE1XD1W6vOfAJuZv" name="Page-1">
     <mxGraphModel dx="2692" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1912,26 +1912,6 @@
         </mxCell>
         <mxCell id="6R0XHn9IqeMFocbcAb6C-14" value="保函追偿" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="PYNVA66sV4i5MZJWyuvp" name="平安汽融">
-    <mxGraphModel dx="1865" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="exyYGIs19AnJqxt29RK3-1" value="保函申请 + 保函表 + 分保表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="260" width="310" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="exyYGIs19AnJqxt29RK3-3" value="代偿表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="50" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="exyYGIs19AnJqxt29RK3-4" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="exyYGIs19AnJqxt29RK3-1" target="exyYGIs19AnJqxt29RK3-3">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="100" y="350" as="sourcePoint" />
-            <mxPoint x="200" y="250" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
