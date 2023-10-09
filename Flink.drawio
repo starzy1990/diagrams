@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T15:23:47.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qP9cbRg7xiEG4Vyd-QVj" version="22.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-09T15:26:07.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VBRKaFYopHDtY4c5-M0e" version="22.0.4" type="github" pages="5">
   <diagram id="SaLpI0_s9lk5tGEbdPId" name="Flink RPC">
     <mxGraphModel dx="2501" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -510,7 +510,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nzslUU2cV4gIKrrvSupw-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nzslUU2cV4gIKrrvSupw-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="190" width="180" height="260" as="geometry" />
         </mxCell>
         <mxCell id="nzslUU2cV4gIKrrvSupw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=楷体;fontStyle=0;fontSize=16;" edge="1" parent="1" source="nzslUU2cV4gIKrrvSupw-1" target="nzslUU2cV4gIKrrvSupw-5">
