@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T15:36:50.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="4uKoEZSKa86gh0Z6Ld29" version="22.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-09T15:38:29.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="sQLm3bOjvIQdALb_2Orb" version="22.0.4" type="github" pages="5">
   <diagram id="SaLpI0_s9lk5tGEbdPId" name="Flink RPC">
     <mxGraphModel dx="2501" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -613,6 +613,20 @@
         </mxCell>
         <mxCell id="nzslUU2cV4gIKrrvSupw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="nzslUU2cV4gIKrrvSupw-33" target="nzslUU2cV4gIKrrvSupw-37">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzslUU2cV4gIKrrvSupw-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.418;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nzslUU2cV4gIKrrvSupw-33" target="nzslUU2cV4gIKrrvSupw-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1606" y="240" />
+              <mxPoint x="1710" y="240" />
+              <mxPoint x="1710" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzslUU2cV4gIKrrvSupw-60" value="reindex" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="nzslUU2cV4gIKrrvSupw-59">
+          <mxGeometry x="-0.2894" y="-3" relative="1" as="geometry">
+            <mxPoint x="16" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nzslUU2cV4gIKrrvSupw-33" value="DRUID" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=0;fontFamily=楷体;" vertex="1" parent="1">
           <mxGeometry x="1560" y="297.5" width="110" height="45" as="geometry" />
