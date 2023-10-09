@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T15:26:07.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VBRKaFYopHDtY4c5-M0e" version="22.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-09T15:31:41.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="JVUWkcpgGmw9HHKRLBr2" version="22.0.4" type="github" pages="5">
   <diagram id="SaLpI0_s9lk5tGEbdPId" name="Flink RPC">
     <mxGraphModel dx="2501" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -619,6 +619,33 @@
         </mxCell>
         <mxCell id="nzslUU2cV4gIKrrvSupw-37" value="BI" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=0;fontFamily=楷体;" vertex="1" parent="1">
           <mxGeometry x="1740" y="297.5" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="nzslUU2cV4gIKrrvSupw-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=61;endSize=9.33;width=22;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="430" as="sourcePoint" />
+            <mxPoint x="530" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzslUU2cV4gIKrrvSupw-41" value="HDFS" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="590" width="180" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="nzslUU2cV4gIKrrvSupw-42" value="server_log" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=0;fontFamily=楷体;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="640" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nzslUU2cV4gIKrrvSupw-43" value="client_log" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=0;fontFamily=楷体;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="710" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nzslUU2cV4gIKrrvSupw-44" value="callback_log" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=0;fontFamily=楷体;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="780" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nzslUU2cV4gIKrrvSupw-45" value="sink" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="490" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzslUU2cV4gIKrrvSupw-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=61;endSize=9.33;width=22;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="532" y="534" as="sourcePoint" />
+            <mxPoint x="532" y="594" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
