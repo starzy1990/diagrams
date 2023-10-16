@@ -1,6 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T09:13:56.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="iinz-E2rk1TOBXH9UxAv" version="21.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-10-16T15:01:29.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NwSZ1W-OYYw4A-Eeoy2s" version="22.0.4" type="github" pages="10">
+  <diagram id="MDYS4NZ6eJ6LdXmTUyq-" name="Hadoop 版本区别">
+    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aANcl468BaiIJE_1SzcA-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D9900;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="370" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-2" value="Common (辅助工具)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=22;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-3" value="Hadoop1.X 组成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="xljxgBAA948Y7_NDT7y9" name="NameNode启动">
-    <mxGraphModel dx="2074" dy="2293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,7 +309,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lAbUES1ijesJqw5qkLP5" name="DataNode启动">
-    <mxGraphModel dx="2074" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rC5nzko70Q0iTBSzShL7-0" />
         <mxCell id="rC5nzko70Q0iTBSzShL7-1" parent="rC5nzko70Q0iTBSzShL7-0" />
@@ -372,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I8tyCh53X_ilQKPQ66ui" name="HDFS写文件">
-    <mxGraphModel dx="3267" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_XVeLm1nu0HYaNyxYRrM-0" />
         <mxCell id="_XVeLm1nu0HYaNyxYRrM-1" parent="_XVeLm1nu0HYaNyxYRrM-0" />
@@ -551,7 +568,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yCcMfWnUy06VAY7P12Z9" name="HDFS读文件">
-    <mxGraphModel dx="2074" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UVOex9MrA3HY6gNNctID-0" />
         <mxCell id="UVOex9MrA3HY6gNNctID-1" parent="UVOex9MrA3HY6gNNctID-0" />
@@ -559,7 +576,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wNrTameAt7LFi2X9TuA1" name="HDFS 单点故障">
-    <mxGraphModel dx="2074" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -751,7 +768,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g40o_CLV3DB0qMoRTSsm" name="NameNode 元数据存储内存受限问题">
-    <mxGraphModel dx="2074" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -810,7 +827,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aCDuH5axAnEgc66UkO6t" name="HDFS 元数据管理">
-    <mxGraphModel dx="2901" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -896,7 +913,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TKQ2NYejXLoy8GYd9mUv" name="MapReduce">
-    <mxGraphModel dx="2074" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Du0avzRzLyUj56zm2Fy--0" />
         <mxCell id="Du0avzRzLyUj56zm2Fy--1" parent="Du0avzRzLyUj56zm2Fy--0" />
@@ -916,32 +933,32 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8qdBWb2XM5ll12Rr2Lnn" name="第 9 页">
-    <mxGraphModel dx="2901" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sx0XUB78PSJkWlc7ee_L-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;strokeColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="sx0XUB78PSJkWlc7ee_L-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;strokeColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="-460" y="170" width="1220" height="870" as="geometry" />
         </mxCell>
-        <mxCell id="sx0XUB78PSJkWlc7ee_L-2" value="&lt;br&gt;输入&lt;br&gt;input&lt;br&gt;HDFS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=0;fontSize=42;verticalAlign=top;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="sx0XUB78PSJkWlc7ee_L-2" value="&lt;br&gt;输入&lt;br&gt;input&lt;br&gt;HDFS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=0;fontSize=42;verticalAlign=top;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-360" y="320" width="180" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="sx0XUB78PSJkWlc7ee_L-3" value="大&lt;br style=&quot;font-size: 42px;&quot;&gt;文&lt;br style=&quot;font-size: 42px;&quot;&gt;件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#FFFFFF;fontSize=42;labelBackgroundColor=none;glass=0;shadow=0;gradientColor=none;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="sx0XUB78PSJkWlc7ee_L-3" value="大&lt;br style=&quot;font-size: 42px;&quot;&gt;文&lt;br style=&quot;font-size: 42px;&quot;&gt;件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#FFFFFF;fontSize=42;labelBackgroundColor=none;glass=0;shadow=0;gradientColor=none;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-340" y="570" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="sx0XUB78PSJkWlc7ee_L-4" value="文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#FFFFFF;fontSize=42;labelBackgroundColor=none;glass=0;shadow=0;gradientColor=none;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="sx0XUB78PSJkWlc7ee_L-4" value="文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#FFFFFF;fontSize=42;labelBackgroundColor=none;glass=0;shadow=0;gradientColor=none;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-340" y="800" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sx0XUB78PSJkWlc7ee_L-5" value="HDFS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=0;fontSize=42;verticalAlign=top;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="sx0XUB78PSJkWlc7ee_L-5" value="HDFS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=0;fontSize=42;verticalAlign=top;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-178" y="280" width="128" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="sx0XUB78PSJkWlc7ee_L-6" value="split 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;dashed=1;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="sx0XUB78PSJkWlc7ee_L-6" value="split 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;dashed=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="-164.5" y="360" width="101" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sx0XUB78PSJkWlc7ee_L-7" value="split 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;dashed=1;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="sx0XUB78PSJkWlc7ee_L-7" value="split 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;dashed=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="-164.5" y="560" width="101" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sx0XUB78PSJkWlc7ee_L-8" value="split 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;dashed=1;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="sx0XUB78PSJkWlc7ee_L-8" value="split 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;dashed=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="-164.5" y="805" width="101" height="60" as="geometry" />
         </mxCell>
       </root>
