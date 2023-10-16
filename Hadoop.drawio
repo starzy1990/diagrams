@@ -1,23 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T15:09:24.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3zZaczk5dd5Fe3fi2RsV" version="22.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-10-16T15:14:09.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Z8NF_yizHofbhWqnWnUC" version="22.0.4" type="github" pages="10">
   <diagram id="MDYS4NZ6eJ6LdXmTUyq-" name="Hadoop 版本区别">
-    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aANcl468BaiIJE_1SzcA-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D9900;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="190" width="340" height="450" as="geometry" />
+          <mxGeometry x="40" y="240" width="310" height="400" as="geometry" />
         </mxCell>
         <mxCell id="aANcl468BaiIJE_1SzcA-2" value="Common (辅助工具)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;fontStyle=0;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="180" y="520" width="250" height="90" as="geometry" />
+          <mxGeometry x="70" y="520" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aANcl468BaiIJE_1SzcA-3" value="Hadoop1.X 组成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="190" y="660" width="230" height="30" as="geometry" />
+          <mxGeometry x="80" y="660" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aANcl468BaiIJE_1SzcA-4" value="HDFS（数据存储）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
-          <mxGeometry x="180" y="390" width="250" height="60" as="geometry" />
+        <mxCell id="aANcl468BaiIJE_1SzcA-4" value="HDFS（数据存储）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aANcl468BaiIJE_1SzcA-5" value="MapReduce&lt;br style=&quot;font-size: 22px;&quot;&gt;（计算 + 资源调度）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="230" width="260" height="80" as="geometry" />
+          <mxGeometry x="70" y="300" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D9900;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="310" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-7" value="Common (辅助工具)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;fontStyle=0;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="450" y="520" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-8" value="Hadoop2.X 组成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="460" y="660" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-9" value="HDFS（数据存储）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-10" value="MapReduce（计算）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-13" value="Hadoop3.X 组成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="850" y="670" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-17" value="Yarn（资源调度）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D9900;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="800" y="230" width="310" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-19" value="Common (辅助工具)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;fontStyle=0;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="830" y="510" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-20" value="HDFS（数据存储）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="830" y="430" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-21" value="MapReduce（计算）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="270" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aANcl468BaiIJE_1SzcA-22" value="Yarn（资源调度）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="350" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
