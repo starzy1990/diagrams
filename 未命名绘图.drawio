@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T12:50:46.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oUQaf8MTowwuZmx5OLQE" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-22T12:58:06.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iOgV9f4j0d7s9LsUTbSi" version="22.1.11" type="github" pages="3">
   <diagram name="第 1 页" id="aQIf3pzCITih1KAFLERH">
     <mxGraphModel dx="3703" dy="2359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -356,7 +356,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WXUgEfcNSfgRNAr3m9Dz" name="第 3 页">
-    <mxGraphModel dx="4387" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3355" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,14 +366,11 @@
         <mxCell id="DCWcPBH3fBYBY6Cr4yW--10" value="OSS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2300" y="1010" width="520" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="DCWcPBH3fBYBY6Cr4yW--12" value="Dataphin 数据集成与同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1;fontSize=32;" vertex="1" parent="1">
+        <mxCell id="DCWcPBH3fBYBY6Cr4yW--12" value="Dataphin 数据集成与同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E75B6;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1;fontSize=32;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-2330" y="1400" width="610" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DCWcPBH3fBYBY6Cr4yW--13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1690" y="1400" width="310" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="DCWcPBH3fBYBY6Cr4yW--14" value="业务系统数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1890" y="1570" width="500" height="60" as="geometry" />
+        <mxCell id="DCWcPBH3fBYBY6Cr4yW--14" value="业务系统数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="1400" width="420" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
