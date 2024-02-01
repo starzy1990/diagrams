@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T09:08:06.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zXFs7P5fNQhwLHqtB_bl" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T09:09:41.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="brI3-UPwpPRg_r1f7B02" version="23.0.2" type="github">
   <diagram name="技术架构" id="8GNJ75QtfmzGKLr9Hj33">
     <mxGraphModel dx="2532" dy="1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,6 +8,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2AT-N2MCOQDLUG6bidaa-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2AT-N2MCOQDLUG6bidaa-1" target="2AT-N2MCOQDLUG6bidaa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2AT-N2MCOQDLUG6bidaa-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;strokeWidth=2;" edge="1" parent="1" source="2AT-N2MCOQDLUG6bidaa-1" target="2AT-N2MCOQDLUG6bidaa-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2AT-N2MCOQDLUG6bidaa-1" value="数据中台(私有化)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;verticalAlign=top;fontSize=22;fontStyle=1" vertex="1" parent="1">
