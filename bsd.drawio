@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T10:44:24.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LV2S70qjCCAN0iICUXQN" version="23.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-01T10:47:01.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="icAzRNa0E43898XoQenJ" version="23.1.0" type="github" pages="3">
   <diagram name="技术架构" id="8GNJ75QtfmzGKLr9Hj33">
     <mxGraphModel dx="2603" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
           <mxGeometry x="130" y="170" width="90" height="350" as="geometry" />
         </mxCell>
         <mxCell id="GZKRG9MlNy778cCYulQZ-42" value="Hive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="223" y="367" width="307" height="60" as="geometry" />
+          <mxGeometry x="223" y="367" width="177" height="60" as="geometry" />
         </mxCell>
         <mxCell id="diHymvM2uXj0NPjtlTtc-1" value="离线计算引擎" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;horizontal=1;textDirection=ltr;labelPosition=center;verticalLabelPosition=middle;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="220" y="430" width="310" height="90" as="geometry" />
@@ -324,7 +324,7 @@
           <mxGeometry x="535" y="368" width="255" height="60" as="geometry" />
         </mxCell>
         <mxCell id="diHymvM2uXj0NPjtlTtc-7" value="数据服务" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="224" y="260" width="566" height="100" as="geometry" />
+          <mxGeometry x="224" y="280" width="566" height="80" as="geometry" />
         </mxCell>
         <mxCell id="diHymvM2uXj0NPjtlTtc-8" value="Trino" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="231" y="310" width="86" height="40" as="geometry" />
@@ -367,6 +367,12 @@
         </mxCell>
         <mxCell id="diHymvM2uXj0NPjtlTtc-25" value="Elasticsearch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="440" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="diHymvM2uXj0NPjtlTtc-26" value="HBase" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="366" width="116.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="diHymvM2uXj0NPjtlTtc-27" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
