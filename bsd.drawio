@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T13:53:50.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="hoGQwBZM2-cP2R26Ew9q" version="23.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-01T14:35:14.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Qhpd-f260BeupNCoyMrT" version="23.1.0" type="github" pages="3">
   <diagram name="技术架构" id="8GNJ75QtfmzGKLr9Hj33">
     <mxGraphModel dx="3218" dy="2017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="riL3sj5yJPT83yyb2otY" name="第 3 页">
-    <mxGraphModel dx="2856" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1743" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -391,7 +391,7 @@
           <mxGeometry x="-748" y="554" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="diHymvM2uXj0NPjtlTtc-35" value="Prometheus +&amp;nbsp;Grafana" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontSize=16;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="707" y="210" width="56" height="376" as="geometry" />
+          <mxGeometry x="707" y="180" width="56" height="406" as="geometry" />
         </mxCell>
         <mxCell id="diHymvM2uXj0NPjtlTtc-43" value="API 服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="250" y="220.5" width="80" height="31" as="geometry" />
