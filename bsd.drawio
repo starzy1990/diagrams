@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T10:43:59.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-eeiy_d2pwr0sc50qSUU" version="23.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-01T10:44:24.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LV2S70qjCCAN0iICUXQN" version="23.1.0" type="github" pages="3">
   <diagram name="技术架构" id="8GNJ75QtfmzGKLr9Hj33">
     <mxGraphModel dx="2603" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -327,10 +327,10 @@
           <mxGeometry x="224" y="260" width="566" height="100" as="geometry" />
         </mxCell>
         <mxCell id="diHymvM2uXj0NPjtlTtc-8" value="Trino" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="254" y="300" width="106" height="50" as="geometry" />
+          <mxGeometry x="231" y="310" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="diHymvM2uXj0NPjtlTtc-10" value="StarRocks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="380" y="300" width="90" height="50" as="geometry" />
+          <mxGeometry x="331.5" y="310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="diHymvM2uXj0NPjtlTtc-12" value="DataX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-300" y="391" width="140" height="74" as="geometry" />
@@ -366,7 +366,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="diHymvM2uXj0NPjtlTtc-25" value="Elasticsearch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="90" height="50" as="geometry" />
+          <mxGeometry x="440" y="310" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
