@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T14:29:26.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Trs_ADgzAmldskl7QdDp" version="24.7.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-07-18T14:31:25.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="V-jJBzyIy4t3XZO7dbXW" version="24.7.1" type="github" pages="12">
   <diagram id="MDYS4NZ6eJ6LdXmTUyq-" name="Hadoop 组成">
     <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1032,13 +1032,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NBkSLmEAEPdDRdtZARvu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="30" y="180" width="580" height="120" as="geometry" />
+          <mxGeometry x="30" y="180" width="580" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NBkSLmEAEPdDRdtZARvu-2" value="File1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="60" y="200" width="150" height="40" as="geometry" />
+          <mxGeometry x="50" y="200" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NBkSLmEAEPdDRdtZARvu-3" value="File2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="60" y="250" width="150" height="40" as="geometry" />
+        <mxCell id="NBkSLmEAEPdDRdtZARvu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="580" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBkSLmEAEPdDRdtZARvu-6" value="File2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="330" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
