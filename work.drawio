@@ -1,45 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="21">
-  <diagram id="xYwMOE1XD1W6vOfAJuZv" name="Page-1">
-    <mxGraphModel dx="3728" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="5jwmne4-hkKwHHIUXCyR-1" value="bj-idc-30p4(172.20.30.4)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontSize=32;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="90" width="670" height="620" as="geometry" />
-        </mxCell>
-        <mxCell id="5jwmne4-hkKwHHIUXCyR-2" value="bj-idc-20p1(172.20.20.1)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontSize=32;" parent="1" vertex="1">
-          <mxGeometry x="20" y="90" width="670" height="620" as="geometry" />
-        </mxCell>
-        <mxCell id="5jwmne4-hkKwHHIUXCyR-3" value="Hadoop" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-710" y="470" width="510" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="5jwmne4-hkKwHHIUXCyR-4" value="bj-idc-20p2(172.20.20.2)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontSize=32;" parent="1" vertex="1">
-          <mxGeometry x="-1310" y="840" width="670" height="620" as="geometry" />
-        </mxCell>
-        <mxCell id="5jwmne4-hkKwHHIUXCyR-5" value="bj-idc-20p3(172.20.20.3)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontSize=32;" parent="1" vertex="1">
-          <mxGeometry x="-390" y="830" width="670" height="620" as="geometry" />
-        </mxCell>
-        <mxCell id="5jwmne4-hkKwHHIUXCyR-6" value="bj-idc-20p4(172.20.20.4)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontSize=32;" parent="1" vertex="1">
-          <mxGeometry x="460" y="830" width="670" height="620" as="geometry" />
-        </mxCell>
-        <mxCell id="5jwmne4-hkKwHHIUXCyR-7" value="NameNode" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-670" y="525" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5jwmne4-hkKwHHIUXCyR-8" value="DataNode" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="525" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5jwmne4-hkKwHHIUXCyR-9" value="zookeeper(1)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-1080" y="1330" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5jwmne4-hkKwHHIUXCyR-10" value="zookeeper(2)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="1310" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5jwmne4-hkKwHHIUXCyR-11" value="zookeeper(3)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1320" width="180" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="19">
   <diagram id="Lbmf951aamsIb5scy_iY" name="中公教育保函明细">
     <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,20 +48,6 @@
         </mxCell>
         <mxCell id="rK84B4XTl2cfk09Y2UWX-13" value="中公教育放款文件信息&lt;br&gt;ods.zgjy_sftp_loan_info" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="140" y="540" width="240" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="Q02_nzPmKwghiA7wHwCp" name="第 3 页">
-    <mxGraphModel dx="1865" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="gClCmRlCF4de8Xs-Fia0-1" value="1·、存储&amp;nbsp; &amp;nbsp;-&amp;nbsp; Hadoop HDFS&lt;br&gt;2、即席查询组件-----hue&amp;nbsp;&amp;nbsp;&lt;br&gt;3、OLAP中间件 ：clickhouse、kylin、Driud、Doris&lt;br&gt;4、计算引擎：MR、TEZ、SPARK、Flink&lt;br&gt;5、BI工具&lt;br&gt;6、调度工具：AZ&lt;br&gt;7、采集工具：Flume、logstash、Filebeat&lt;br&gt;8、ETL 工具：sqoop、cannel、Flink CDC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-450" y="690" width="770" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="gClCmRlCF4de8Xs-Fia0-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="30" y="380" width="190" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -201,7 +146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZCuKQSwSep6dTBynzeFq" name="第 5 页">
-    <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
