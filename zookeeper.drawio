@@ -116,7 +116,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uevg5NRr3Y7PBl9EROGS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="uevg5NRr3Y7PBl9EROGS-2" value="Zookeeper 服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="50" width="1080" height="290" as="geometry" />
         </mxCell>
         <mxCell id="uevg5NRr3Y7PBl9EROGS-1" value="Server" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
