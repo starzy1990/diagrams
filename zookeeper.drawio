@@ -131,9 +131,6 @@
         <mxCell id="uevg5NRr3Y7PBl9EROGS-6" value="Follower" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320.5" y="165" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="uevg5NRr3Y7PBl9EROGS-48" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00CC00;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#d5e8d4;" edge="1" parent="1" source="uevg5NRr3Y7PBl9EROGS-7" target="uevg5NRr3Y7PBl9EROGS-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uevg5NRr3Y7PBl9EROGS-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#d5e8d4;" edge="1" parent="1" source="uevg5NRr3Y7PBl9EROGS-7" target="uevg5NRr3Y7PBl9EROGS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
