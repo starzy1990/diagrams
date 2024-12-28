@@ -345,8 +345,8 @@
         <mxCell id="uevg5NRr3Y7PBl9EROGS-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.529;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#fff2cc;" edge="1" parent="1" source="uevg5NRr3Y7PBl9EROGS-20" target="uevg5NRr3Y7PBl9EROGS-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uevg5NRr3Y7PBl9EROGS-62" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;黑色的线：客户端发送请求给服务端" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;strokeColor=default;strokeWidth=2;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="50" width="190" height="510" as="geometry" />
+        <mxCell id="uevg5NRr3Y7PBl9EROGS-62" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;黑色的线：客户端发送请求给服务端&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝色的线：Follower 转发客户端提交的写数据请求给 Leader&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;红色的线：Leader 广播 Proposal 给所有 Follower 服务&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;黄色的线：所有 Follower 服务器返回 ACK 消息给 Leader&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;绿色的线：Server 发送提交事务的 Commit 命令给所有执行 Proposal 的 Follower 节点&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;strokeColor=default;strokeWidth=2;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="50" width="260" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
