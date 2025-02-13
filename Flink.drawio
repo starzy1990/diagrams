@@ -705,7 +705,7 @@
           <mxGeometry x="60" y="220" width="1030" height="330" as="geometry" />
         </mxCell>
         <mxCell id="uGFm67Yy6yXmaMvxBlkp-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7FB1E5;strokeColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="357" width="90" height="56" as="geometry" />
+          <mxGeometry x="110" y="380" width="90" height="56" as="geometry" />
         </mxCell>
         <mxCell id="uGFm67Yy6yXmaMvxBlkp-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="30" height="60" as="geometry" />
