@@ -706,16 +706,16 @@
         <mxCell id="WUYyN_LHip4VY7LbNaXj-1" value="实时计算&lt;div&gt;Flink&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-700.11" y="210" width="350" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="WUYyN_LHip4VY7LbNaXj-3" value="ODS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="WUYyN_LHip4VY7LbNaXj-3" value="ODS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontStyle=1;fontSize=22;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-700.11" y="360" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WUYyN_LHip4VY7LbNaXj-4" value="DIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-530.11" y="360" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WUYyN_LHip4VY7LbNaXj-5" value="DWD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="WUYyN_LHip4VY7LbNaXj-5" value="DWD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontStyle=1;fontSize=22;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-530.11" y="430" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WUYyN_LHip4VY7LbNaXj-6" value="DWS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="WUYyN_LHip4VY7LbNaXj-6" value="DWS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-360.11" y="360" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WUYyN_LHip4VY7LbNaXj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WUYyN_LHip4VY7LbNaXj-7" target="WUYyN_LHip4VY7LbNaXj-32">
@@ -728,7 +728,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WUYyN_LHip4VY7LbNaXj-7" value="ADS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="WUYyN_LHip4VY7LbNaXj-7" value="ADS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-190.11" y="360" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WUYyN_LHip4VY7LbNaXj-8" value="OSS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;horizontal=1;verticalAlign=middle;fontSize=36;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
