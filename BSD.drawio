@@ -713,7 +713,7 @@
           <mxGeometry x="304" y="-180" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="35jLUxYzNGx2wIPelwP7-48" value="智能BI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="760" y="520" width="200" height="100" as="geometry" />
+          <mxGeometry x="690" y="442.5" width="390" height="100" as="geometry" />
         </mxCell>
         <mxCell id="35jLUxYzNGx2wIPelwP7-55" value="DataX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="179.25" width="170" height="72.5" as="geometry" />
