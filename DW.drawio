@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-x6p4v90_mWVm1i841Se-1" value="数据源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="90" y="120" width="180" height="410" as="geometry" />
+        <mxCell id="-x6p4v90_mWVm1i841Se-1" value="数据源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="210" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="-x6p4v90_mWVm1i841Se-2" value="源业务库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="135" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
