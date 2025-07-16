@@ -1036,16 +1036,16 @@
           <mxGeometry x="1129.01" y="427" width="86" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R7bnw9bjrxn5G_HAkmE6-42" value="StarRocks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1039" y="303.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="1060" y="303" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R7bnw9bjrxn5G_HAkmE6-43" value="StarRocks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1129.01" y="303.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="1150" y="303" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R7bnw9bjrxn5G_HAkmE6-44" value="StarRocks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1223" y="303.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="1237.56" y="303.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R7bnw9bjrxn5G_HAkmE6-45" value="Trino" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontSize=18;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="975" y="303" width="60" height="35" as="geometry" />
+          <mxGeometry x="975" y="303" width="75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R7bnw9bjrxn5G_HAkmE6-46" value="移动端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1183" y="230" width="60" height="31" as="geometry" />
