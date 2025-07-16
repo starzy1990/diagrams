@@ -961,7 +961,7 @@
           <mxGeometry x="888" y="191" width="70" height="276" as="geometry" />
         </mxCell>
         <mxCell id="R7bnw9bjrxn5G_HAkmE6-18" value="Hive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontSize=16;direction=south;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="965" y="352.5" width="98" height="35" as="geometry" />
+          <mxGeometry x="975" y="352.5" width="165" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R7bnw9bjrxn5G_HAkmE6-19" value="离线计算引擎" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;horizontal=1;textDirection=ltr;labelPosition=center;verticalLabelPosition=middle;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="965" y="395" width="150" height="72" as="geometry" />
@@ -1006,7 +1006,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R7bnw9bjrxn5G_HAkmE6-32" value="Iceberg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1067" y="352.5" width="86" height="35" as="geometry" />
+          <mxGeometry x="1150" y="352.5" width="167.56" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R7bnw9bjrxn5G_HAkmE6-33" value="展现服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f9f7ed;strokeColor=#36393d;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="966.56" y="191" width="366.44" height="76" as="geometry" />
