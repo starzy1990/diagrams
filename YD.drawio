@@ -84,16 +84,16 @@
         <mxCell id="2DUTjnqAUohcPvjKwdeb-20" value="主数据管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2E2E2;fontColor=#000000;strokeColor=#666666;align=center;fontStyle=1;fontSize=12;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="670" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2DUTjnqAUohcPvjKwdeb-21" value="资产地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-21" value="主数据上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="704" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2DUTjnqAUohcPvjKwdeb-22" value="资产目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-22" value="主数据维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="704" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2DUTjnqAUohcPvjKwdeb-23" value="资产检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-23" value="主数据审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="704" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2DUTjnqAUohcPvjKwdeb-24" value="资产授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-24" value="主数据分发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="704" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
