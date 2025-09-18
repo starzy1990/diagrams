@@ -39,17 +39,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2DUTjnqAUohcPvjKwdeb-3" value="&amp;nbsp; &amp;nbsp; 资&lt;div&gt;&amp;nbsp; &amp;nbsp; 源&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;服&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;务&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;平&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;台&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#FF3333;strokeColor=#666666;align=left;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="19" y="240" width="790" height="180" as="geometry" />
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-3" value="&amp;nbsp; &amp;nbsp; 资&lt;div&gt;&amp;nbsp; &amp;nbsp; 源&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;服&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;务&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;平&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;台&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2E2E2;fontColor=#FF3333;strokeColor=#666666;align=left;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="19" y="240" width="921" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="2DUTjnqAUohcPvjKwdeb-4" value="资源目录管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;verticalAlign=top;fillColor=none;strokeWidth=2;strokeColor=#FF9999;" vertex="1" parent="1">
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-4" value="资源目录管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;verticalAlign=top;fillColor=none;strokeWidth=2;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="720" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2DUTjnqAUohcPvjKwdeb-5" value="面向业务的数据资源目录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="270" width="170" height="30" as="geometry" />
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-5" value="面向业务的数据资源目录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2DUTjnqAUohcPvjKwdeb-6" value="数据表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="320" width="170" height="30" as="geometry" />
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-6" value="数据表-&amp;gt;数据分类-&amp;gt;数据管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-7" value="数据API管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;verticalAlign=top;fillColor=none;strokeWidth=2;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
