@@ -45,8 +45,11 @@
         <mxCell id="2DUTjnqAUohcPvjKwdeb-4" value="资源目录管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;verticalAlign=top;fillColor=none;strokeWidth=2;strokeColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="720" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2DUTjnqAUohcPvjKwdeb-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-5" value="面向业务的数据资源目录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="270" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-6" value="数据表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
