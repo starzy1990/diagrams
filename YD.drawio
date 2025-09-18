@@ -99,7 +99,7 @@
         <mxCell id="2DUTjnqAUohcPvjKwdeb-25" value="标签管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;verticalAlign=top;strokeWidth=2;dashed=1;dashPattern=8 8;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="480" y="560" width="380" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="2DUTjnqAUohcPvjKwdeb-27" value="数据资产管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2E2E2;fontColor=#000000;strokeColor=#666666;align=center;fontStyle=1;fontSize=12;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-27" value="标签管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2E2E2;fontColor=#000000;strokeColor=#666666;align=center;fontStyle=1;fontSize=12;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="490" y="597" width="130" height="133" as="geometry" />
         </mxCell>
       </root>
