@@ -156,6 +156,9 @@
         <mxCell id="2DUTjnqAUohcPvjKwdeb-47" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2E2E2;fontColor=#000000;strokeColor=none;align=center;fontStyle=0;fontSize=12;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="170" y="860" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="2DUTjnqAUohcPvjKwdeb-48" value="统一标准数据治理体系" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;verticalAlign=top;strokeWidth=2;dashed=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="260" y="750" width="320" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
