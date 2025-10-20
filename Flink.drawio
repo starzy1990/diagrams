@@ -610,6 +610,15 @@
         <mxCell id="cct6jBZVT6aaZQeqvIU_-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=20.67;direction=south;notch=0;fillColor=#937044;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="527.5" y="190" width="55" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-35" value="parallelism=1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-36" value="parallelism=2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="525" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-37" value="parallelism=2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="995" y="384" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
