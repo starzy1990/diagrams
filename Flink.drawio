@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="llY0ThGVitqbVJbe0Emi" name="Flink 四层模型">
-    <mxGraphModel dx="570" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,7 +446,7 @@
         <mxCell id="-f6r63e0zjs9ZlgRPIxM-11" value="StreamEdge" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#2D7600;strokeWidth=2;fontSize=14;fillColor=#60a917;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="820" y="110" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cct6jBZVT6aaZQeqvIU_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.421;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;strokeColor=#00CCCC;strokeWidth=2;" edge="1" parent="1" source="-f6r63e0zjs9ZlgRPIxM-12" target="cct6jBZVT6aaZQeqvIU_-24">
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.421;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#00CCCC;strokeWidth=2;" edge="1" parent="1" source="-f6r63e0zjs9ZlgRPIxM-12" target="cct6jBZVT6aaZQeqvIU_-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="280" as="targetPoint" />
           </mxGeometry>
@@ -600,6 +600,9 @@
         </mxCell>
         <mxCell id="cct6jBZVT6aaZQeqvIU_-30" value="parallelism=2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1000" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-32" value="Operator Chain" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="845" y="200" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
