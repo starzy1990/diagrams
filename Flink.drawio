@@ -532,7 +532,7 @@
           <mxGeometry x="1000" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cct6jBZVT6aaZQeqvIU_-8" value="ExecutionGraph" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;labelBorderColor=none;strokeWidth=2;strokeColor=#00CCCC;fontStyle=1;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="30" y="490" width="1080" height="140" as="geometry" />
+          <mxGeometry x="30" y="490" width="1080" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cct6jBZVT6aaZQeqvIU_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CCCC;strokeWidth=2;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="cct6jBZVT6aaZQeqvIU_-10" target="cct6jBZVT6aaZQeqvIU_-21">
           <mxGeometry relative="1" as="geometry" />
