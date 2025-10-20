@@ -450,7 +450,7 @@
           <mxGeometry x="970" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-f6r63e0zjs9ZlgRPIxM-15" value="JobGraph" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;labelBorderColor=none;strokeWidth=2;strokeColor=#00CCCC;fontStyle=1;verticalAlign=top;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="30" y="270" width="1080" height="140" as="geometry" />
+          <mxGeometry x="30" y="260" width="1080" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-f6r63e0zjs9ZlgRPIxM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CCCC;strokeWidth=2;fontSize=14;fontColor=#000000;" parent="1" source="-f6r63e0zjs9ZlgRPIxM-17" target="-f6r63e0zjs9ZlgRPIxM-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -499,8 +499,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-f6r63e0zjs9ZlgRPIxM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00CCCC;strokeWidth=2;fontSize=14;fontColor=#000000;dashed=1;" parent="1" source="-f6r63e0zjs9ZlgRPIxM-12" target="-f6r63e0zjs9ZlgRPIxM-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-f6r63e0zjs9ZlgRPIxM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00CCCC;strokeWidth=2;fontSize=14;fontColor=#000000;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="160" as="sourcePoint" />
+            <mxPoint x="1500" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cct6jBZVT6aaZQeqvIU_-1" value="StreamNode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="80" y="70" width="60" height="30" as="geometry" />
@@ -523,7 +526,7 @@
         <mxCell id="cct6jBZVT6aaZQeqvIU_-7" value="StreamNode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1000" y="70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cct6jBZVT6aaZQeqvIU_-8" value="JobGraph" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;labelBorderColor=none;strokeWidth=2;strokeColor=#00CCCC;fontStyle=1;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-8" value="ExecutionGraph" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;labelBorderColor=none;strokeWidth=2;strokeColor=#00CCCC;fontStyle=1;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="30" y="490" width="1080" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cct6jBZVT6aaZQeqvIU_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CCCC;strokeWidth=2;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="cct6jBZVT6aaZQeqvIU_-10" target="cct6jBZVT6aaZQeqvIU_-21">
@@ -564,6 +567,21 @@
         </mxCell>
         <mxCell id="cct6jBZVT6aaZQeqvIU_-21" value="中间数据" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#2D7600;strokeWidth=2;fontSize=14;fillColor=#60a917;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="550" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-22" value="JobVetex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-23" value="JobVetex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="525" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-24" value="JobVetex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="995" y="291" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-26" value="parallelism=1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-27" value="parallelism=2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="384" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
