@@ -514,6 +514,15 @@
         <mxCell id="cct6jBZVT6aaZQeqvIU_-4" value="hash" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="535" y="80" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-5" value="StreamNode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-6" value="forward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="845" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cct6jBZVT6aaZQeqvIU_-7" value="StreamNode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1000" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
