@@ -22,7 +22,40 @@
           <mxGeometry height="100" width="650" x="90" y="370" as="geometry" />
         </mxCell>
         <mxCell id="vp0tw4kot0AygjAVBlFN-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" value="Iceberg&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="390" x="90" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nessie" vertex="1">
           <mxGeometry height="60" width="650" x="90" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Paimon" vertex="1">
+          <mxGeometry height="60" width="260" x="480" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Spark" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="flink" vertex="1">
+          <mxGeometry height="60" width="260" x="480" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DolphinScheduler" vertex="1">
+          <mxGeometry height="60" width="190" x="90" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="starrocks" vertex="1">
+          <mxGeometry height="60" width="650" x="90" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BI报表" vertex="1">
+          <mxGeometry height="60" width="150" x="90" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="API服务" vertex="1">
+          <mxGeometry height="60" width="130" x="240" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI Agent" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据服务" vertex="1">
+          <mxGeometry height="60" width="130" x="490" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="自助分析 " vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
