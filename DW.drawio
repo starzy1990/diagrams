@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" pages="2">
   <diagram name="第 1 页" id="sn9MEfii1dEM8IqNI5wO">
     <mxGraphModel dx="976" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,20 @@
         </mxCell>
         <mxCell id="-x6p4v90_mWVm1i841Se-2" value="源业务库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="135" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SIh0bsTTpxnhbb_gkRNW" name="第 2 页">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vp0tw4kot0AygjAVBlFN-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=16;" value="MinIO" vertex="1">
+          <mxGeometry height="100" width="650" x="90" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="vp0tw4kot0AygjAVBlFN-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" value="Iceberg&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="650" x="90" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
